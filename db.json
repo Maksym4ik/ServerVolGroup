@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1001,
+    "followed": true,
+    "firstName": "Сергій",
+    "career": "Директор",
+    "location": "Львів",
+    "age": 25,
+    "about": "вирішую бізнес задачі",
+    "photoUrl": "https://uploads.scratch.mit.edu/users/avatars/34083956.png"
+  }
+]
