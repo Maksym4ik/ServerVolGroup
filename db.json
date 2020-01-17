@@ -1,12 +1,44 @@
-[
+{
+volunteers[
   {
-    "id": 1001,
-    "followed": true,
-    "firstName": "Сергій",
-    "career": "Директор",
-    "location": "Львів",
-    "age": 25,
-    "about": "вирішую бізнес задачі",
-    "photoUrl": "https://uploads.scratch.mit.edu/users/avatars/34083956.png"
-  }
-]
+                        id: 1001,
+                        followed: true,
+                        firstName: 'Vovka',
+                        career: 'Директор',
+                        location: 'Львів',
+                        age: 25,
+                        about: 'вирішую бізнес задачі',
+                        photoUrl: 'https://uploads.scratch.mit.edu/users/avatars/34083956.png'
+                    },
+                    {
+                        id: 1002,
+                        followed: false,
+                        firstName: 'Павлик',
+                        career: 'школьник',
+                        location: 'Київ',
+                        age: 14,
+                        about: 'Допомагаю по дому',
+                        photoUrl: 'https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg'
+                    },
+                    {
+                        id: 1003,
+                        followed: true,
+                        firstName: 'Жанночка',
+                        career: 'студентка',
+                        location: 'Одеса',
+                        age: 21,
+                        about: 'Допомагаю по дому',
+                        photoUrl: 'https://uploads.scratch.mit.edu/users/avatars/34083956.png'
+                    },
+                    {
+                        id: 1004,
+                        followed: false,
+                        firstName: 'Валерчік',
+                        career: 'бляя',
+                        location: 'Луцьк',
+                        age: 43,
+                        about: 'Допомагаю по дому',
+                        photoUrl: 'https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg'
+                    }
+  ]
+}
