@@ -1,5 +1,5 @@
 {
-"volunteers": [
+"volunteers1": [
   {
                         "id": 1001,
                         "followed": true,
@@ -50,7 +50,9 @@
                         "about": "я реді",
                         "photoUrl": "https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg"
                     },
-                    {
+  ],
+  "volunteers2": [
+  {
                         "id": 1006,
                         "followed": true,
                         "firstName": "Анатолій",
@@ -99,7 +101,9 @@
                         "age": 43,
                         "about": "Допомагаю по дому",
                         "photoUrl": "https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg"
-                    },
+                    }
+  ],
+  "volunteers3":[
                     {
                         "id": 1011,
                         "followed": false,
@@ -140,5 +144,7 @@
                         "about": "Допомагаю по дому",
                         "photoUrl": "https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg"
                     }
-  ]
+  ],
+"volunteersCount": 14,
+volunteersPageSize: 5
 }
