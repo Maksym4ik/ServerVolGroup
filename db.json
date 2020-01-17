@@ -51,7 +51,7 @@
                         "photoUrl": "https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg"
                     }
   ],
-  "volunteers2": [
+"volunteers2": [
   {
                         "id": 1006,
                         "followed": true,
@@ -103,7 +103,7 @@
                         "photoUrl": "https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg"
                     }
   ],
-  "volunteers3":[
+"volunteers3":[
                     {
                         "id": 1011,
                         "followed": false,
@@ -144,7 +144,5 @@
                         "about": "Допомагаю по дому",
                         "photoUrl": "https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg"
                     }
-  ],
-"volunteersCount": 14,
-"volunteersPageSize": 5
+  ]
 }
